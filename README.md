@@ -6,6 +6,7 @@ This is a way to solve crosswords in Python. By you, the old-fashioned way, usin
 
 ## How do I use it? 
 If you run it, you'll immediately get the chance to solve a "crossword"- it's really more of a test. This is what you'll see:
+```
     From top to bottom and left to right
     1 over: wet
     1 down: transportation
@@ -29,5 +30,5 @@ If you run it, you'll immediately get the chance to solve a "crossword"- it's re
      J                                  
      K                                  
     Choose a square or type $CLUES for clues: 
-  
+```  
 To make your own crossword, you can edit the "cw_file.json", or remove that as a parameter from the Crossword definition and use a different file. I really didn't put enough effort into this to warrant any kind of documentation, you'll figure it out.  
